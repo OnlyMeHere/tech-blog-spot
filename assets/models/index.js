@@ -26,6 +26,8 @@ Comments.belongsTo(User, {
 
 
 
+
+
 module.exports = {
     User, Comments, Blogs
 };
