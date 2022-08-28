@@ -32,3 +32,9 @@ This site allows a signed in user to write a tech blog that other signed in user
 
 
 * License Badge coutesy of: [lukas-h on GitHub](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+
+## Questions:
+
+[James Bennett LinkedIn](linkedin.com/in/jamesbennett1here)
+
+[OnlyMeHere GitHub](https://github.com/OnlyMeHere)
