@@ -1,14 +1,15 @@
 {
-  "name": "assets",
+  "name": "tech-blog-spot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tech-Blog-Spot",
+  "homepage": "https://github.com/OnlyMeHere/tech-blog-spot",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "OnlyMeHere",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
